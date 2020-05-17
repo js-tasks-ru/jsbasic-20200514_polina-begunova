@@ -1,9 +1,7 @@
-/**
- * Power
- * @param {number} m base
- * @param {number} n index
- * @returns {number}
- */
-function sum(m, n) {
-
+// by Polina Begunova
+'use strict';
+function sum(a,b) {
+  return a+b;
 }
+alert(sum(1,1));
+alert(sum(2,5));
